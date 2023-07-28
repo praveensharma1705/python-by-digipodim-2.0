@@ -8,7 +8,7 @@ HEIGHT = 500
 #objects
 p = Actor('hero') #Actor is a class
 e = Actor('enemy')
-c = Actor('friut')
+c = Actor('fruit')
 
 #configuration
 c.x = randint(50, WIDTH-50)
